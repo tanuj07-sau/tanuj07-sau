@@ -1,6 +1,6 @@
 ## Hi there 👋,I am Tanuj Singh
 
-## about me
+## About me
 - B .Tech Student at VIT Bhopal
 - Branch: BTech CSE(core)
 - 1st year
