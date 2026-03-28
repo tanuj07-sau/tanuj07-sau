@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋,I am Tanuj Singh
 
-<!--
-**tanuj07-sau/tanuj07-sau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## about me
+- B .Tech Student at VIT Bhopal
+- Branch: BTech CSE(core)
+- 1st year
 
-Here are some ideas to get you started:
+## Interests
+- Programming
+- Data Science
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills/ Tools
+- C++
+- Python
+- react.js
+- Web development
+
+## Hobbies
+- Graphic Designing
+
